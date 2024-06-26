@@ -1,5 +1,7 @@
 # Vagus Purr
 
+![Vegas Purr Icon](https://raw.githubusercontent.com/erickveil/VagusPurr/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp)
+
 A simple app that makes your phone vibrate continuously.
 
 Great for meditation.
