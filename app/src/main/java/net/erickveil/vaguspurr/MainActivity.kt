@@ -87,7 +87,8 @@ fun CustomButton(text: String, drawableId: Int, onClick: () -> Unit) {
             Text(
                 text = text,
                 fontSize = 24.sp,
-                modifier = Modifier.padding(bottom = 8.dp)
+                modifier = Modifier.padding(bottom = 8.dp),
+                color = Color.Black
             )
             Image(
                 painter = painterResource(id = drawableId),
