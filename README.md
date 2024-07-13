@@ -1,6 +1,6 @@
 # Vagus Purr
 
-![Vegas Purr Icon](https://raw.githubusercontent.com/erickveil/VagusPurr/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp)
+![Vagas Purr Icon](https://raw.githubusercontent.com/erickveil/VagusPurr/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp)
 
 A simple app that makes your phone vibrate continuously.
 
@@ -18,3 +18,5 @@ It's sort-of like having a purring cat sitting on your chest.
 On my phone, I find it works best if I press the side edge of my phone against my sternum while running the app. The flat back or front doesn't seem to pass the vibrations as mutch.
 
 YMMV. 
+
+![Vagus Purr Guy](https://raw.githubusercontent.com/erickveil/VagusPurr/master/app/src/main/res/VagusPurrGuyFuzzyEdge.png)
