@@ -2,6 +2,8 @@
 
 ![Vagas Purr Icon](https://raw.githubusercontent.com/erickveil/VagusPurr/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp)
 
+Get the Android app on [Google Play](https://play.google.com/store/apps/details?id=net.erickveil.vaguspurr)
+
 A simple app that makes your phone vibrate continuously.
 
 Great for meditation.
